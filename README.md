@@ -12,28 +12,26 @@
 * `opi codecs`
 
 ## Nvidia drivers
-* Check: `https://en.opensuse.org/SDB:NVIDIA_drivers`
+* Check: https://en.opensuse.org/SDB:NVIDIA_drivers
 
 ## Fonts
 
-#### Microsoft fonts
+### Microsoft fonts
 * `sudo zypper in fetchmsttfonts`
 
-#### Nerd fonts
-* Download from: `https://www.nerdfonts.com/font-downloads`
-
-Extract and move to:
-* `~/.local/share/fonts/`
+### Nerd fonts
+* Download from: https://www.nerdfonts.com/font-downloads
+* Extract and move to: `~/.local/share/fonts/`
 
 
 ## What I Use on OpenSUSE?
 
-#### Theme (GTK)
+### Theme
 * https://github.com/lassekongo83/adw-gtk3
 
-#### Shell
+### Shell
 * Zsh: `sudo zypper in zsh`
 * OhMyZsh: https://github.com/ohmyzsh/ohmyzsh
 
-#### Icons
+### Icons
 * Papirus icons theme: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
