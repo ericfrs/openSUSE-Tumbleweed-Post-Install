@@ -31,7 +31,7 @@
 
 ### Shell
 
-####Starship
+#### Starship
 * `sudo zypper install starship`
 * `echo 'eval "$(starship init bash)"' >> ~/.bashrc`
 * [Starship Guide](https://starship.rs/guide/)
