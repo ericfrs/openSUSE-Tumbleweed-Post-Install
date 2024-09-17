@@ -30,11 +30,15 @@
 * https://github.com/lassekongo83/adw-gtk3
 
 ### Shell
+<details>
+<summary>Starship</summary>
 
-#### Starship
-* `sudo zypper install starship`
-* `echo 'eval "$(starship init bash)"' >> ~/.bashrc`
+```
+sudo zypper install starship
+echo 'eval "$(starship init bash)"' >> ~/.bashrc
+```
 * [Starship Guide](https://starship.rs/guide/)
+</details>
 
 ### Icons
 * Papirus icons theme: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
